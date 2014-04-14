@@ -1,0 +1,16 @@
+*.swp
+*.o
+*.a
+*.lst
+*.o
+*.a
+*.eps
+*.png
+*.pdf
+*.bak
+*.lst
+*.map
+*.hex
+*.bin
+*.srec
+*.elf
